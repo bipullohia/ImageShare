@@ -22,13 +22,12 @@
         android:id="@+id/editTextUsername"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_below="@+id/logoImageView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="111dp"
         android:ems="10"
         android:hint="Enter Username"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 
     <EditText
         android:id="@+id/editTextPassword"
@@ -49,7 +48,7 @@
         android:layout_below="@+id/editTextPassword"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="43dp"
-        android:background="@color/InstagramBlue"
+        android:background="@color/Blue"
         android:onClick="signupLogin"
         android:text="SignUp"
         android:textColor="#FFFFFF" />
@@ -65,14 +64,6 @@
         android:onClick="orButton"
         android:text="Or, LogIn"
         android:textAllCaps="false"
-        android:textColor="@color/InstagramBlue" />
+        android:textColor="@color/Blue" />
 
-    <ImageView
-        android:id="@+id/logoImageView"
-        android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:src="@drawable/instalogo" />
 </RelativeLayout>

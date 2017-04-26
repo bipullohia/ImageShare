@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Bipul Lohia\\Desktop\\ImageShare-master\\ImageShare-master\\ImageShare\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\Bipul Lohia\\.android\\build-cache\\ca0291e204121b8db56082755594ed6ab8e80db8\\output\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    }
+]

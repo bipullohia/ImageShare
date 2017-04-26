@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Bipul Lohia\\Desktop\\ImageShare-master\\ImageShare-master\\ImageShare\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Bipul Lohia\\.android\\build-cache\\a90a33f854a8e6c48b58eb623f910619b033d773\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    }
+]
